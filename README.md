@@ -27,3 +27,7 @@ More info about dataset can be found here:
 ## Mage Data Pipeline
 ![Mage ETL Pipeline](https://github.com/Niharika-avula/Uber_Data_Engineering/assets/65195915/c8028040-bb41-4bb1-b70a-43e528adf17c)
 
+## Uber Analytics Dashboard
+Screenshot below shows the dashboard built using Power BI
+![Uber Analytics Dashboard](https://github.com/Niharika-avula/Uber_Data_Engineering/assets/65195915/62031f58-9c30-41e7-8dad-6b43b83eab21)
+
